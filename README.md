@@ -1,7 +1,12 @@
 # Keyboard-Mouse-Neural-Network
 
+## Dataset 
+https://ieee-dataport.org/open-access/su-ais-bb-mas-syracuse-university-and-assured-information-security-behavioral-biometrics
+### Synthetic Data
+* Generated through: https://mostly.ai/
+
 ## Epoch Loss Curve
-* ![User 1 epoch curve](https://github.com/matthewcoppedge/Keyboard-Mouse-Neural-Network/assets/69172752/b5aa7951-04a7-4096-833f-829562889890)
+ ![User 1 epoch curve](https://github.com/matthewcoppedge/Keyboard-Mouse-Neural-Network/assets/69172752/b5aa7951-04a7-4096-833f-829562889890)
 
 ## Example Output:
 ### Testing user's Model with random person's data
