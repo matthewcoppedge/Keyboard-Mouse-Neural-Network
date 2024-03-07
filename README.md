@@ -1,6 +1,6 @@
 # Keyboard-Mouse-Neural-Network
 
-## Training Validation Loss Curve
+## Epoch Loss Curve
 * ![User 1 epoch curve](https://github.com/matthewcoppedge/Keyboard-Mouse-Neural-Network/assets/69172752/b5aa7951-04a7-4096-833f-829562889890)
 
 ## Example Output:
